@@ -1,0 +1,21 @@
+{
+  "name": "assignment5",
+  "version": "1.0.0",
+  "description": "Vanessa - assignment 5",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "assignemt3",
+    "assignemt4",
+    "assignemt5"
+  ],
+  "author": "vanessa",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2",
+    "express-handlebars": "^7.1.3"
+  }
+}
